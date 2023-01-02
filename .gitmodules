@@ -1,0 +1,9 @@
+[submodule "ecommerce-nextjs"]
+	path = ecommerce-nextjs
+	url = https://github.com/lequochung19971/ecommerce-nextjs.git
+[submodule "client"]
+	path = client
+	url = https://github.com/lequochung19971/ecommerce-nextjs.git
+[submodule "server"]
+	path = server
+	url = https://github.com/lequochung19971/ecommerce-strapi.git
